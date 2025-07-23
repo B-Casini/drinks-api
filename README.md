@@ -1,15 +1,15 @@
-# Drink API
+# DrinkS API
 
 A simple Flask API to manage drinks with SQLite database.
 
-## How to run
+How to run
 
 1. Clone this repo  
 2. Create a virtual environment and activate it  
 3. Install dependencies: `pip install -r requirements.txt`  
 4. Run the app: `flask run`  
 
-## Endpoints
+Endpoints
 
 - GET /drinks — List all drinks  
 - GET /drinks/<id> — Get a drink by ID  
